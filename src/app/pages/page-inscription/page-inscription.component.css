@@ -1,0 +1,7 @@
+.my-container {
+    margin-top: 175px;  /* Ajustez selon vos besoins */
+    max-width: 200%;    /* Limite la largeur à 100% de son parent */
+    width: 30%;         /* Réduit la largeur à 50% de son parent */
+    height: 100px;      /* Définissez une hauteur spécifique pour votre conteneur */
+
+}
