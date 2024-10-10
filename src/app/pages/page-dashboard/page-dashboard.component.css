@@ -8,3 +8,12 @@ min-height: 600px;
 .no-flex-wrap{
     flex-wrap: inherit !important;
 }
+.circular-logo {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover; 
+  }
+  .custom-h6 {
+    font-family: cursive;
+  }

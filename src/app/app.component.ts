@@ -12,4 +12,5 @@ import { PageInscriptionComponent } from "./pages/page-inscription/page-inscript
 })
 export class AppComponent {
   title = 'gestionStock';
+  
 }
