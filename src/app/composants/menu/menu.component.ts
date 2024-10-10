@@ -48,7 +48,7 @@ export class MenuComponent  {
           id:'22',
           titre:'Mouvements de Stock',
           icon:'fab fa-stack-overflow',
-          url:'',
+          url:'mvtstk',
         }
       ]
     },
